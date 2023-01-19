@@ -1627,6 +1627,7 @@ body {
     }
 
     .covertext {
+        width: 80%;
         margin-top: 38%;
         color: #fff;
         font-size: 10px;
@@ -1634,8 +1635,8 @@ body {
         text-align: left;
 
         position: absolute;
-        top: 10%;
-        left: 10%;
+        top: -40%;
+        left: 4%;
         z-index: 1;
     }
 
