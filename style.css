@@ -1430,16 +1430,16 @@ body {
     }
 
     .slider__nav:checked:nth-of-type(2)~.slider__inner {
-        left: -115%;
+        left: -125%;
 
     }
 
     .slider__nav:checked:nth-of-type(3)~.slider__inner {
-        left: -215%;
+        left: -235%;
     }
 
     .slider__nav:checked:nth-of-type(4)~.slider__inner {
-        left: -315%;
+        left: -345%;
     }
 
     .flex-container-news {
@@ -1559,15 +1559,15 @@ body {
         width: 280%;
         height: auto;
         z-index: 10;
-        margin-top: 10%;
-        margin-left: -75%;
+        margin-top: -25%;
+        margin-left: -85%;
         overflow: visible;
 
 
     }
 
     .slider_number {
-        margin: -150% 55% 10rem;
+        margin: -200% 25% 10rem;
         color: rgb(255, 255, 255);
         font-size: 420px;
 
